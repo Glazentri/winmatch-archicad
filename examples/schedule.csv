@@ -1,0 +1,3 @@
+Element ID,GUID,Type,Height,Width,Quantity,Storey,Room,WM Glazing,WM Glazing Colour,WM Frame Colour,WM Notes
+W01,example-window-guid-01,Window,1200,1800,1,Ground,Living,TBC,TBC,TBC,Example only
+D01,example-door-guid-01,Door,2100,2400,1,Ground,Dining,TBC,TBC,TBC,Example only
